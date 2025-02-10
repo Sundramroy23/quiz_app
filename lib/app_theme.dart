@@ -18,8 +18,8 @@ class AppTheme {
     useMaterial3: true,
     brightness: Brightness.light,
     colorScheme: const ColorScheme.light(
-      primary: primaryLight,
-      secondary: secondaryLight,
+      primary: Color.fromRGBO(105, 34, 174, 1),
+      secondary: Color.fromRGBO(151, 48, 250, 1),
       surface: Color(0xFFF5F5F5),
       error: Color(0xFFB00020),
     ),
